@@ -16,7 +16,7 @@ Improving the autonomous capabilities of marine vehicles by applying theory from
 
 Education
 ======
-* 2020 - Present - Scripps Institution of Oceanography (expected graduation, 8/2025)
+* 2020 - Present - Scripps Institution of Oceanography (expected graduation, 9/2025)
   * PhD Candidate - Oceanography (Applied Ocean Science)
   * Advisor - Dr. Sophia Merrifield
   * Lab - Coastal Observing Research and Development Center (CORDC)
@@ -30,6 +30,8 @@ Honors and Awards
 
 Journal Publications
 ====
+* 2025 - **R Young**, FH Akins, S Merrifield, _Energy-Optimal Path Planning for Autonomous Underwater Vehicles with the Maximum Principle_, (in review)
+* 2025 - M Siegelman, W O'Rielly, J Becker, C Olfe, **R Young**, PL Colin, E Terrill, S Merrifield, _Spectral Refraction Modeling of Waves around the Steep Reef at Palau_, (in review)f
 * 2024 - **R Young**, S Merrifield, M Anderson, M Mazloff, E Terrill, _A Greedy Depth Seeking Behavior for Energy-Efficient Transits by an Autonomous Underwater Vehicle_, IEEE Journal of Oceanic Engineering. <https://doi.org/10.1109/JOE.2024.3429610>
 * 2023 - S Merrifield, S Celona, RA McCarthy, A Pietruszka, H Batchelor, R Hess, A Nager, **R Young**, K Sadorf, LA Levin, DL Valentine, JE Conrad, EJ Terrill. _Wide-Area Debris Field and Seabed Characterization of a Deep Ocean Dump Site Surveyed by Autonomous Underwater Vehicles_, Environmental Sciences and Technology. <https://doi.org/10.1021/acs.est.3c01256>
 
@@ -59,12 +61,18 @@ Posters and Talks
 
 Field Work
 =====
+* Jan 2025 - TN-441 ARCTERX Process Research Cruise (12 days)
+  * R/V Thomas G. Thompson - Guam, USA
+  * Scientist - Data analysis of shipboard data: ADCP, Coherent Doppler Radar, and flow-through CTD. Deployment, recovery, and data analysis for Wave Glider USVs.
+* Nov 2024 - NA169 Mapping and Water Column Exploration Offshore Palau
+  * E/V Nautilus - Korror, Palau
+  * Role: Scientist - Data analysis of shipboard data: ADCP, echosounder, and flow-through CTD. Deployment, recovery, and data analysis for autonomous vehicles: Wave glider and Wam-V USVs. 
 * May 2023 - TN-417 ARCTERX Process Research Cruise (16 days)
   * R/V Thomas G. Thompson - Koror, Palau
-  * Role: Scientist - assisted deployment/recovery and data processing for Wave Glider USVs and Remus AUVs. Developed tools for analysis/visualization of shipboard ADCP data.
+  * Role: Scientist - Data analysis of shipboard data: ADCP and flow-through CTD. Deployment, recovery, and data analysis for Wave Glider USV.
 * Apr 2022 - RR2203 ARCTERX Pilot Research Cruise (12 days)
   * R/V Roger Revelle - Guam, USA
-  * Role: Scientist - assisted deployment/recovery and data processing for Wave Glider USVs and Remus AUVs.
+  * Role: Scientist - Data analysis of shipboard data: ADCP and flow-through CTD. Deployment, recovery, and data analysis for autonomous vehicles: Wave Glider USV and REMUS AUV.
 * Sep-Oct 2021 - AR60-02 NORSE Pilot Research Cruise (35 days)
   * R/V Neil Armstrong - Reykjavik, Iceland
   * Role: Scientist - assisted deployment/recovery and operation of a Wave Glider for collaborative sampling.
@@ -76,6 +84,9 @@ Teaching
   * Spring 2021 - SIOC209: Hacking for the Oceans (for Sophia Merrifield)
 * Volunteer Instructor - SIO Incoming Graduate Student Mathematics Workshop
   * Fall 2024, Fall 2022 - Lectures on probability and statistics
+* Training - UCSD Teaching and Learning Commons
+  * In Progress - Advanced College Teaching: Equitable Course Design & Instruction
+  * Fall 2024 - Introduction to College Teaching: Foundations of Equitable Teaching 
 
   
 Service and Leadership
