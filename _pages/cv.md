@@ -11,7 +11,7 @@ redirect_from:
 
 <div class="pdf-wrap">
   <div class="pdf-toolbar">
-    <a href="{{ '/assets/cv.pdf' | relative_url }}">Download CV (PDF)</a>
+    <a href="{{ '/assets/CV.pdf' | relative_url }}">Download CV (PDF)</a>
     <span>(updated 9/2025)</span>
   </div>
 
@@ -20,7 +20,7 @@ redirect_from:
     type="application/pdf"
     class="pdf-embed">
     <p>Your browser can’t display PDFs here.
-      <a href="{{ '/assets/cv.pdf' | relative_url }}">Open the CV</a>.
+      <a href="{{ '/assets/CV.pdf' | relative_url }}">Open the CV</a>.
     </p>
   </object>
 </div>
