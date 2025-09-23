@@ -16,7 +16,7 @@ redirect_from:
   </div>
 
   <object
-    data="{{ '/assets/cv.pdf' | relative_url }}"
+    data="{{ '/assets/CV.pdf' | relative_url }}"
     type="application/pdf"
     style="width:100%; height:75vh; border:1px solid rgba(0,0,0,.1); box-shadow:0 4px 20px rgba(0,0,0,.06); border-radius:8px;">
     <p>Your browser can’t display PDFs here.
