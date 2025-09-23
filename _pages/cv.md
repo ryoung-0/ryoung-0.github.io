@@ -1,7 +1,7 @@
 <div class="pdf-wrap">
   <div class="pdf-toolbar">
     <a href="{{ '/assets/cv.pdf' | relative_url }}">Download CV (PDF)</a>
-    <span>(updated 3/2025)</span>
+    <span>(updated 9/2025)</span>
   </div>
 
   <object
