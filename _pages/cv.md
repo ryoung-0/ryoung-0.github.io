@@ -12,7 +12,7 @@ redirect_from:
 <div style="max-width:800px; margin:0 auto 2rem auto;">
   <div style="display:flex; gap:.75rem; align-items:baseline; margin:.5rem 0 1rem; font-size:.95rem; opacity:.9;">
     <a href="{{ '/assets/CV.pdf' | relative_url }}">Download CV (PDF)</a>
-    <span>(updated 9/2025)</span>
+    <span>(updated 1/2026)</span>
   </div>
 
   <object
