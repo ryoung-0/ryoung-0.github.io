@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Scholar at Scripps Institution of Oceanography where I am advised by Dr. Sophia Merrifield in the [CORDC](https://cordc.ucsd.edu/) group. 
+I am interested in autonomy, optimal path planning, and adaptive sampling for autonomous vehicles operating in dynamic and uncertain environments. I am specifically interested in the marine domain, and how we can use autonomous systems for future observing systems.
 
-I am interested in autonomy and optimal path planning for un-crewed systems that operate in dynamic and uncertain environments. My dissertation work was funded by the [NDSEG](https://ndseg.org/) fellowship. 
+Currently, I am a Postdoctoral Fellow (Schmidt AI in Science Fellowship) at University of Michigan with the Michigan Institute for Data and AI in Society (MIDAS). I am co-advised by Dr. Alan Papalia in the Robotic Exploration [RobEx](https://robex.engin.umich.edu/) Group and Dr. [Brian Arbic](https://arbic.earth.lsa.umich.edu/). Previously, I completed my Ph.D. at Scripps Institution of Oceanography with Dr. Sophia Merrifield in the [CORDC](https://cordc.ucsd.edu/) group. 
+
